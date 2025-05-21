@@ -1,0 +1,8 @@
+venv/
+venv310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
